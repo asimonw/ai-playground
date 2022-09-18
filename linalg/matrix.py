@@ -4,6 +4,7 @@ matrix = [
     [1, 1, 4],
 ]
 
+
 def scalar_mult(s, v):
     return [s * x for x in v]
 
